@@ -1,4 +1,4 @@
 import streamlit as st
 
 
-st.titlr("Los tralas")
+st.title ("Los tralas")
